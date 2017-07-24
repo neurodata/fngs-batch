@@ -1,9 +1,9 @@
 Package: fngsbatch
-Title: What the Package Does (one line, title case)
+Title: FNGS Batch Effects Analysis
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Eric", "Bridgeford", email = "ericwb95@gmail.com", role = c("aut", "cre"))
+Description: A package for examining the presence of batch effects in fMRI data. Designed with sweepers anticipating a spec similar to the FNGS pipeline.
 Depends: R (>= 3.2.3)
-License: What license is it under?
+License: Apache License, Version 2.0
 Encoding: UTF-8
 LazyData: true
