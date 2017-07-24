@@ -7,3 +7,7 @@ Depends: R (>= 3.2.3)
 License: Apache License, Version 2.0
 Encoding: UTF-8
 LazyData: true
+Imports:
+  fmriutils,
+  ggplot2,
+  reshape2
